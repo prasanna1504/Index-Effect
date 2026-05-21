@@ -55,6 +55,21 @@ PAGES = [
 ]
 page = st.sidebar.radio("Navigate", PAGES, label_visibility="collapsed")
 st.sidebar.markdown("---")
+st.sidebar.markdown("**Era definitions**")
+st.sidebar.markdown(
+    "<div style='font-size:13px;line-height:1.7'>"
+    "<span style='color:#2196F3'>●</span> <b>Era 1 · 2015–2017</b><br>"
+    "<span style='color:grey;font-size:11px;padding-left:14px'>"
+    "Low passive AUM · ₹0.4–1.2L Cr<br>"
+    "<span style='padding-left:14px'>Classic index effect intact</span></span><br><br>"
+    "<span style='color:#FF5722'>●</span> <b>Era 2 · 2018–2025</b><br>"
+    "<span style='color:grey;font-size:11px;padding-left:14px'>"
+    "High passive AUM · ₹1.2–11L Cr<br>"
+    "<span style='padding-left:14px'>Effect compressed/reversed</span></span>"
+    "</div>",
+    unsafe_allow_html=True,
+)
+st.sidebar.markdown("---")
 st.sidebar.caption("Nifty 50 Reconstitutions · 2015–2025 · N=51 events")
 
 # ══════════════════════════════════════════════════════════════════════════════
