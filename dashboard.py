@@ -15,7 +15,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 # ── Paths ─────────────────────────────────────────────────────────────────────
-ROOT    = Path(__file__).parent
+ROOT    = Path(__file__).resolve().parent
 RESULTS = ROOT / "results"
 FIGS    = RESULTS / "figures"
 DATA    = ROOT / "data"
