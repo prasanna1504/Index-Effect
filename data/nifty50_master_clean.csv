@@ -1,0 +1,215 @@
+announcement_date,effective_date,stock_name,action,symbol
+1996-09-18,1996-09-18,ABB India Ltd.,Inclusion,
+1996-09-18,1996-09-18,Asian Paints Ltd.,Inclusion,
+1996-09-18,1996-09-18,East India Hotels Ltd,Inclusion,
+1996-09-18,1996-09-18,Glaxo (India) Ltd.,Inclusion,
+1996-09-18,1996-09-18,Mahindra & Mahindra Ltd.,Inclusion,
+1996-09-18,1996-09-18,Nestle India Limited,Inclusion,
+1996-09-18,1996-09-18,Chambal Fertilizers & Chemicals Ltd.,Exclusion,
+1996-09-18,1996-09-18,Hero Honda Motors Limited,Exclusion,
+1996-09-18,1996-09-18,Apollo Tyres Ltd.,Exclusion,
+1996-09-18,1996-09-18,Indian Aluminium Co. Ltd.,Exclusion,
+1996-09-18,1996-09-18,Madras Refineries Ltd.,Exclusion,
+1996-09-18,1996-09-18,Nagarjuna Fertilizers & Chemicals Ltd.,Exclusion,
+1997-05-07,1997-05-07,Mahanagar Telephone Nigam Ltd.,Inclusion,
+1997-05-07,1997-05-07,Brooke Bond Lipton India Ltd.,Exclusion,
+1997-05-14,1997-05-14,Bharat Heavy Electricals Ltd.,Inclusion,BHEL
+1997-05-14,1997-05-14,Hindustan Petroleum Corporation Ltd.,Inclusion,HINDPETRO
+1997-05-14,1997-05-14,SCICI Ltd.,Exclusion,
+1997-05-14,1997-05-14,Dr. Reddy's Laboratories Ltd.,Exclusion,
+1997-12-24,1997-12-24,Bharat Petroleum Corporation Ltd.,Inclusion,BPCL
+1997-12-24,1997-12-24,Essar Gujarat Ltd.,Exclusion,
+1998-10-07,1998-10-07,NIIT Ltd.,Inclusion,
+1998-10-07,1998-10-07,Smithkline Beecham Consumer Healthcare Ltd.,Inclusion,
+1998-10-07,1998-10-07,Bank of India,Inclusion,
+1998-10-07,1998-10-07,Cipla Ltd.,Inclusion,
+1998-10-07,1998-10-07,Hero Honda Motors Limited,Inclusion,
+1998-10-07,1998-10-07,Infosys Technologies Limited,Inclusion,
+1998-10-07,1998-10-07,Procter & Gamble India Ltd.,Inclusion,
+1998-10-07,1998-10-07,Thermax Ltd.,Exclusion,
+1998-10-07,1998-10-07,Ashok Leyland Ltd.,Exclusion,
+1998-10-07,1998-10-07,Bharat Petroleum Corporation Ltd.,Exclusion,BPCL
+1998-10-07,1998-10-07,Indo Gulf Corporation Ltd.,Exclusion,
+1998-10-07,1998-10-07,Mangalore Refinery & Petrochemicals Ltd.,Exclusion,
+1998-10-07,1998-10-07,Ponds (India) Ltd.,Exclusion,
+1998-10-07,1998-10-07,Andhra Valley Power Supply Co. Ltd.,Exclusion,
+1999-05-26,1999-05-26,Reliance Capital Ltd.,Exclusion,
+1999-05-26,1999-05-26,Great Eastern Shipping Company Limited.,Exclusion,
+1999-05-26,1999-05-26,Arvind Mills Ltd,Exclusion,
+1999-05-26,1999-05-26,Novartis India Ltd,Inclusion,
+1999-05-26,1999-05-26,Dr. Reddy's Laboratories Ltd.,Inclusion,
+1999-05-26,1999-05-26,Reckitt & Colman India Ltd.,Inclusion,
+1999-09-08,1999-09-08,Indian Rayon & Industries Ltd.,Exclusion,
+1999-09-08,1999-09-08,Industrial Finance Corporation Of India Ltd.,Exclusion,
+1999-09-08,1999-09-08,Britannia Industries Ltd.,Inclusion,BRITANNIA
+1999-09-08,1999-09-08,Satyam Computer Services Ltd.,Inclusion,
+2000-05-10,2000-05-10,TVS Suzuki Ltd.,Exclusion,
+2000-05-10,2000-05-10,Dabur India Ltd.,Inclusion,
+2000-05-24,2000-05-24,EIH Ltd.,Exclusion,
+2000-05-24,2000-05-24,Industrial Development Bank of India Limited,Exclusion,
+2000-05-24,2000-05-24,HCL Infosystems Ltd.,Inclusion,
+2000-05-24,2000-05-24,Zee Telefilms Ltd,Inclusion,
+2000-09-01,2000-09-01,Bank of India,Exclusion,
+2000-09-01,2000-09-01,Digital Equipment (india) Ltd.,Inclusion,
+2002-01-17,2002-01-17,Kochi Refineries Ltd.,Exclusion,
+2002-01-17,2002-01-17,HCL Infosystems Ltd.,Exclusion,
+2002-01-17,2002-01-17,Sun Pharmaceutical Industries Ltd.,Inclusion,
+2002-01-17,2002-01-17,Wipro Ltd.,Inclusion,
+2002-01-25,2002-01-25,ICICI Bank Ltd.,Inclusion,
+2002-01-25,2002-01-25,Reckitt Benckiser (India) Ltd,Exclusion,
+2002-05-31,2002-05-31,Videsh Sanchar Nigam Ltd.,Inclusion,
+2002-05-31,2002-05-31,ICICI Ltd.,Exclusion,
+2002-10-10,2002-10-10,Shipping Corporation of India Ltd.,Inclusion,
+2002-10-10,2002-10-10,Reliance Petroleum Ltd.,Exclusion,
+2002-10-28,2002-10-28,Asian Paints Ltd.,Exclusion,
+2002-10-28,2002-10-28,Procter & Gamble India Ltd.,Exclusion,
+2002-10-28,2002-10-28,Bharat Petroleum Corporation Ltd.,Inclusion,BPCL
+2002-10-28,2002-10-28,HCL Technologies Ltd.,Inclusion,
+2003-05-02,2003-05-02,Castrol (India) Ltd.,Exclusion,
+2003-05-02,2003-05-02,Novartis India Ltd.,Exclusion,
+2003-05-02,2003-05-02,Gas Authority of India Limited,Inclusion,
+2003-05-02,2003-05-02,National Aluminium Co. Ltd.,Inclusion,
+2003-08-04,2003-08-04,Steel Authority of India Ltd.,Inclusion,
+2003-08-04,2003-08-04,Nestle India Limited,Exclusion,
+2004-03-01,2004-03-01,NIIT Ltd.,Exclusion,
+2004-03-01,2004-03-01,Bharti Tele-Ventures Ltd.,Inclusion,
+2004-03-01,2004-03-01,Maruti Udyog Limited,Inclusion,
+2004-03-01,2004-03-01,GlaxoSmithkline Consumer Healthcare Ltd.,Exclusion,
+2004-04-12,2004-04-12,Digital Globalsoft Ltd.,Exclusion,
+2004-04-12,2004-04-12,Oil & Natural Gas Corporation Ltd.,Inclusion,
+2004-05-24,2004-05-24,Larsen & Toubro Ltd.,Exclusion,
+2004-05-24,2004-05-24,Punjab National Bank,Inclusion,PNB
+2004-12-10,2004-12-10,Larsen & Toubro Ltd.,Inclusion,
+2004-12-10,2004-12-10,Britannia Industries Ltd.,Exclusion,BRITANNIA
+2005-02-25,2005-02-25,Tata Consultancy Services Ltd.,Inclusion,
+2005-02-25,2005-02-25,Indian Hotels Co. Ltd.,Exclusion,
+2005-09-26,2005-09-26,Jet Airways (India) Ltd.,Inclusion,
+2005-09-26,2005-09-26,Colgate Palmolive (I) Ltd,Exclusion,
+2006-06-27,2006-06-27,Siemens Ltd.,Inclusion,
+2006-06-27,2006-06-27,Suzlon Energy Ltd.,Inclusion,
+2006-06-27,2006-06-27,Shipping Corporation of India Ltd.,Exclusion,
+2006-06-27,2006-06-27,Tata Chemicals Ltd.,Exclusion,
+2006-09-01,2006-09-01,Reliance Communications Ltd.,Inclusion,
+2006-09-01,2006-09-01,Tata Tea Limited,Exclusion,
+2007-04-04,2007-04-04,Reliance Petroleum Ltd.,Inclusion,
+2007-04-04,2007-04-04,Sterlite Industries (India) Ltd.,Inclusion,
+2007-04-04,2007-04-04,Jet Airways (India) Ltd.,Exclusion,
+2007-04-04,2007-04-04,Oriental Bank of Commerce,Exclusion,
+2007-09-24,2007-09-24,NTPC Ltd.,Inclusion,
+2007-09-24,2007-09-24,Dabur India Ltd.,Exclusion,
+2007-10-05,2007-10-05,Indian Petrochemicals Corporation Ltd.,Exclusion,
+2007-10-05,2007-10-05,Unitech Ltd.,Inclusion,
+2007-12-12,2007-12-12,Idea Cellular Ltd.,Inclusion,IDEA
+2007-12-12,2007-12-12,Cairn India Ltd.,Inclusion,CAIRN
+2007-12-12,2007-12-12,Hindustan Petroleum Corporation Ltd.,Exclusion,HINDPETRO
+2007-12-12,2007-12-12,Mahanagar Telephone Nigam Ltd.,Exclusion,
+2008-03-14,2008-03-14,Bajaj Auto Ltd,Exclusion,
+2008-03-14,2008-03-14,Glaxosmithkline Pharmaceuticals Ltd.,Exclusion,
+2008-03-14,2008-03-14,Power Grid Corporation of India Ltd.,Inclusion,
+2008-03-14,2008-03-14,DLF Ltd.,Inclusion,DLF
+2008-09-10,2008-09-10,Reliance Power Ltd.,Inclusion,
+2008-09-10,2008-09-10,Dr. Reddy's Laboratories Ltd.,Exclusion,
+2009-01-12,2009-01-12,Reliance Capital Ltd.,Inclusion,
+2009-01-12,2009-01-12,Satyam Computer Services Ltd.,Exclusion,
+2009-03-27,2009-03-27,Axis Bank Ltd.,Inclusion,
+2009-03-27,2009-03-27,Zee Entertainment Enterprises Ltd.,Exclusion,ZEEL
+2009-06-17,2009-06-17,Reliance Petroleum Ltd.,Exclusion,
+2009-06-17,2009-06-17,Jindal Steel & Power Ltd.,Inclusion,JINDALSTEL
+2009-10-22,2009-10-22,National Aluminium Co. Ltd.,Exclusion,
+2009-10-22,2009-10-22,Tata Communications Ltd.,Exclusion,
+2009-10-22,2009-10-22,Jaiprakash Associates Ltd.,Inclusion,
+2009-10-22,2009-10-22,Infrastructure Development Finance Company Limited,Inclusion,
+2010-04-08,2010-04-08,Kotak Mahindra Bank Ltd.,Inclusion,
+2010-04-08,2010-04-08,Grasim Industries Ltd.,Exclusion,GRASIM
+2010-10-01,2010-10-01,ABB India Ltd.,Exclusion,
+2010-10-01,2010-10-01,Sesa Goa Limited,Inclusion,
+2010-10-01,2010-10-01,Dr. Reddy's Laboratories Ltd.,Inclusion,
+2010-10-01,2010-10-01,Bajaj Auto Ltd.,Inclusion,
+2010-10-01,2010-10-01,Unitech Ltd.,Exclusion,
+2010-10-01,2010-10-01,Idea Cellular Ltd.,Exclusion,IDEA
+2011-03-25,2011-03-25,Grasim Industries Ltd.,Inclusion,GRASIM
+2011-03-25,2011-03-25,Suzlon Energy Ltd.,Exclusion,
+2011-10-10,2011-10-10,Reliance Capital Ltd.,Exclusion,
+2011-10-10,2011-10-10,Coal India Ltd.,Inclusion,
+2012-04-27,2012-04-27,Asian Paints Ltd.,Inclusion,
+2012-04-27,2012-04-27,Bank of Baroda,Inclusion,BANKBARODA
+2012-04-27,2012-04-27,Reliance Communications Ltd.,Exclusion,
+2012-04-27,2012-04-27,Reliance Power Ltd.,Exclusion,
+2012-09-28,2012-09-28,Lupin Ltd.,Inclusion,
+2012-09-28,2012-09-28,UltraTech Cement Ltd.,Inclusion,
+2012-09-28,2012-09-28,Steel Authority of India Ltd.,Exclusion,
+2012-09-28,2012-09-28,Sterlite Industries (India) Ltd.,Exclusion,
+2013-04-01,2013-04-01,IndusInd Bank Ltd.,Inclusion,INDUSINDBK
+2013-04-01,2013-04-01,NMDC Ltd.,Inclusion,NMDC
+2013-04-01,2013-04-01,Wipro Ltd.,Exclusion,
+2013-04-01,2013-04-01,Siemens Ltd.,Exclusion,
+2013-09-27,2013-09-27,Wipro Ltd.,Inclusion,
+2013-09-27,2013-09-27,Reliance Infrastructure Ltd.,Exclusion,
+2014-02-28,2014-03-28,United Spirits Ltd.,Inclusion,
+2014-02-28,2014-03-28,Jaiprakash Associates Ltd.,Exclusion,
+2014-02-28,2014-03-28,Ranbaxy Laboratories Ltd.,Exclusion,
+2014-02-28,2014-03-28,Tech Mahindra Ltd.,Inclusion,
+2014-08-29,2014-09-19,Zee Entertainment Enterprises Ltd.,Inclusion,ZEEL
+2014-08-29,2014-09-19,United Spirits Ltd.,Exclusion,
+2015-02-20,2015-03-27,DLF Ltd.,Exclusion,DLF
+2015-02-20,2015-03-27,Yes Bank Ltd.,Inclusion,YESBANK
+2015-02-20,2015-03-27,Idea Cellular Ltd.,Inclusion,IDEA
+2015-02-20,2015-03-27,Jindal Steel & Power Ltd.,Exclusion,JINDALSTEL
+2015-05-29,2015-05-29,IDFC Ltd,Exclusion,
+2015-05-29,2015-05-29,Bosch Ltd.,Inclusion,BOSCHLTD
+2015-08-12,2015-09-28,Adani Ports and Special Economic Zone Ltd.,Inclusion,ADANIPORTS
+2015-08-12,2015-09-28,NMDC Ltd.,Exclusion,NMDC
+2016-02-26,2016-04-01,Tata Motors Ltd DVR,Inclusion,TATAMTRDVR
+2016-02-26,2016-04-01,Bharti Infratel Ltd.,Inclusion,INFRATEL
+2016-02-26,2016-04-01,Aurobindo Pharma Ltd.,Inclusion,AUROPHARMA
+2016-02-26,2016-04-01,Eicher Motors Ltd.,Inclusion,EICHERMOT
+2016-02-26,2016-04-01,Punjab National Bank,Exclusion,PNB
+2016-02-26,2016-04-01,Cairn India Ltd.,Exclusion,CAIRN
+2016-02-26,2016-04-01,Vedanta Ltd.,Exclusion,VEDL
+2017-02-16,2017-03-31,Indiabulls Housing Finance Ltd.,Inclusion,IBULHSGFIN
+2017-02-16,2017-03-31,Indian Oil Corporation Ltd.,Inclusion,IOC
+2017-02-16,2017-03-31,Bharat Heavy Electricals Ltd.,Exclusion,BHEL
+2017-02-16,2017-03-31,Idea Cellular Ltd.,Exclusion,IDEA
+2017-05-26,2017-05-26,Grasim Industries Ltd.,Exclusion,GRASIM
+2017-05-26,2017-05-26,Vedanta Ltd.,Inclusion,VEDL
+2017-08-29,2017-09-29,Bajaj Finance Ltd.,Inclusion,BAJFINANCE
+2017-08-29,2017-09-29,UPL Ltd.,Inclusion,UPL
+2017-08-29,2017-09-29,Hindustan Petroleum Corporation Ltd.,Inclusion,HINDPETRO
+2017-08-29,2017-09-29,Tata Power Co. Ltd.,Exclusion,TATAPOWER
+2017-08-29,2017-09-29,Tata Motors Ltd DVR,Exclusion,TATAMTRDVR
+2017-08-29,2017-09-29,Bank of Baroda,Exclusion,BANKBARODA
+2017-08-29,2017-09-29,ACC Ltd.,Exclusion,ACC
+2018-02-23,2018-04-02,Grasim Industries Ltd.,Inclusion,GRASIM
+2018-02-23,2018-04-02,Titan Company Ltd.,Inclusion,TITAN
+2018-02-23,2018-04-02,Bajaj Finserv Ltd.,Inclusion,BAJAJFINSV
+2018-02-23,2018-04-02,Ambuja Cements Ltd.,Exclusion,AMBUJACEM
+2018-02-23,2018-04-02,Aurobindo Pharma Ltd.,Exclusion,AUROPHARMA
+2018-02-23,2018-04-02,Bosch Ltd.,Exclusion,BOSCHLTD
+2018-08-31,2018-09-28,JSW Steel Ltd.,Inclusion,
+2018-08-31,2018-09-28,Lupin Ltd.,Exclusion,
+2019-08-28,2019-09-27,Indiabulls Housing Finance Ltd.,Exclusion,IBULHSGFIN
+2019-08-28,2019-09-27,Nestle India Ltd.,Inclusion,NESTLEIND
+2020-02-18,2020-03-27,Yes Bank Ltd.,Exclusion,YESBANK
+2020-02-18,2020-03-27,Shree Cement Ltd.,Inclusion,SHREECEM
+2020-08-20,2020-09-25,Divi's Laboratories Ltd.,Inclusion,DIVISLAB
+2020-08-20,2020-09-25,SBI Life Insurance Company Ltd.,Inclusion,SBILIFE
+2020-08-20,2020-09-25,Bharti Infratel Ltd.,Exclusion,INFRATEL
+2020-08-20,2020-09-25,Zee Entertainment Enterprises Ltd.,Exclusion,ZEEL
+2021-02-23,2021-03-26,Tata Consumer Products Ltd.,Inclusion,TATACONSUM
+2021-02-23,2021-03-26,GAIL (India) Ltd.,Exclusion,GAIL
+2022-02-24,2022-03-25,Apollo Hospitals Enterprise Ltd.,Inclusion,APOLLOHOSP
+2022-02-24,2022-03-25,Indian Oil Corporation Ltd.,Exclusion,IOC
+2024-02-28,2024-03-29,Shriram Finance Ltd.,Inclusion,SHRIRAMFIN
+2024-02-28,2024-03-29,UPL Ltd.,Exclusion,UPL
+2024-08-23,2024-09-30,Divi's Laboratories Ltd.,Exclusion,DIVISLAB
+2024-08-23,2024-09-30,Trent Ltd.,Inclusion,TRENT
+2024-08-23,2024-09-30,Bharat Electronics Ltd.,Inclusion,BEL
+2024-08-23,2024-09-30,LTIMindtree Ltd.,Exclusion,LTIM
+2025-02-21,2025-03-28,Bharat Petroleum Corporation Ltd.,Exclusion,BPCL
+2025-02-21,2025-03-28,Britannia Industries Ltd.,Exclusion,BRITANNIA
+2025-02-21,2025-03-28,Jio Financial Services Ltd.,Inclusion,JIOFIN
+2025-02-21,2025-03-28,Zomato Ltd.,Inclusion,ZOMATO
+2025-08-22,2025-09-26,Hero MotoCorp Ltd.,Exclusion,HEROMOTOCO
+2025-08-22,2025-09-26,InterGlobe Aviation Ltd.,Inclusion,INDIGO
+2025-08-22,2025-09-26,IndusInd Bank Ltd.,Exclusion,INDUSINDBK
+2025-08-22,2025-09-26,Max Healthcare Institute Ltd.,Inclusion,MAXHEALTH

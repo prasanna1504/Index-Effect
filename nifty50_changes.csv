@@ -1,0 +1,57 @@
+announcement_date,effective_date,stock_name,symbol,action,source_pdf
+2015-02-20,2015-03-27,DLF Ltd.,DLF,Exclusion,https://nsearchives.nseindia.com//web/sites/default/files/2020-11/ind_prs20022015.pdf
+2015-02-20,2015-03-27,Jindal Steel & Power Ltd.,JINDALSTEL,Exclusion,https://nsearchives.nseindia.com//web/sites/default/files/2020-11/ind_prs20022015.pdf
+2015-02-20,2015-03-27,Idea Cellular Ltd.,IDEA,Inclusion,https://nsearchives.nseindia.com//web/sites/default/files/2020-11/ind_prs20022015.pdf
+2015-02-20,2015-03-27,Yes Bank Ltd.,YESBANK,Inclusion,https://nsearchives.nseindia.com//web/sites/default/files/2020-11/ind_prs20022015.pdf
+2015-08-12,2015-09-25,NMDC Ltd.,NMDC,Exclusion,https://nsearchives.nseindia.com//web/sites/default/files/2020-11/ind_prs12082015.pdf
+2015-08-12,2015-09-25,Adani Ports and Special Economic Zone Ltd.,ADANIPORTS,Inclusion,https://nsearchives.nseindia.com//web/sites/default/files/2020-11/ind_prs12082015.pdf
+2016-02-22,2016-03-25,Eicher Motors Ltd.,EICHERMOT,Inclusion,https://nsearchives.nseindia.com//web/sites/default/files/2021-02/ind_prs22022016_2.pdf
+2016-02-22,2016-03-25,Bharti Infratel Ltd.,INFRATEL,Inclusion,https://nsearchives.nseindia.com//web/sites/default/files/2021-02/ind_prs22022016_2.pdf
+2016-02-22,2016-03-25,Aurobindo Pharma Ltd.,AUROPHARMA,Inclusion,https://nsearchives.nseindia.com//web/sites/default/files/2021-02/ind_prs22022016_2.pdf
+2016-02-22,2016-03-25,Tata Motors Ltd. (DVR),TATAMTRDVR,Inclusion,https://nsearchives.nseindia.com//web/sites/default/files/2021-02/ind_prs22022016_2.pdf
+2016-02-22,2016-03-25,Punjab National Bank,PNB,Exclusion,https://nsearchives.nseindia.com//web/sites/default/files/2021-02/ind_prs22022016_2.pdf
+2016-02-22,2016-03-25,Cairn India Ltd.,CAIRN,Exclusion,https://nsearchives.nseindia.com//web/sites/default/files/2021-02/ind_prs22022016_2.pdf
+2016-02-22,2016-03-25,Vedanta Ltd.,VEDL,Exclusion,https://nsearchives.nseindia.com//web/sites/default/files/2021-02/ind_prs22022016_2.pdf
+2017-02-16,2017-03-31,Bharat Heavy Electricals Ltd.,BHEL,Exclusion,https://nsearchives.nseindia.com//web/sites/default/files/2021-06/ind_prs16022017.pdf
+2017-02-16,2017-03-31,Idea Cellular Ltd.,IDEA,Exclusion,https://nsearchives.nseindia.com//web/sites/default/files/2021-06/ind_prs16022017.pdf
+2017-02-16,2017-03-31,Indiabulls Housing Finance Ltd.,IBULHSGFIN,Inclusion,https://nsearchives.nseindia.com//web/sites/default/files/2021-06/ind_prs16022017.pdf
+2017-02-16,2017-03-31,Indian Oil Corporation Ltd.,IOC,Inclusion,https://nsearchives.nseindia.com//web/sites/default/files/2021-06/ind_prs16022017.pdf
+2017-08-28,2017-09-29,ACC Ltd.,ACC,Exclusion,https://nsearchives.nseindia.com//web/sites/default/files/2021-06/ind_prs28082017.pdf
+2017-08-28,2017-09-29,Bank of Baroda,BANKBARODA,Exclusion,https://nsearchives.nseindia.com//web/sites/default/files/2021-06/ind_prs28082017.pdf
+2017-08-28,2017-09-29,Tata Power Co. Ltd.,TATAPOWER,Exclusion,https://nsearchives.nseindia.com//web/sites/default/files/2021-06/ind_prs28082017.pdf
+2017-08-28,2017-09-29,Tata Motors Ltd DVR,TATAMTRDVR,Exclusion,https://nsearchives.nseindia.com//web/sites/default/files/2021-06/ind_prs28082017.pdf
+2017-08-28,2017-09-29,Bajaj Finance Ltd.,BAJFINANCE,Inclusion,https://nsearchives.nseindia.com//web/sites/default/files/2021-06/ind_prs28082017.pdf
+2017-08-28,2017-09-29,Hindustan Petroleum Corporation Ltd.,HINDPETRO,Inclusion,https://nsearchives.nseindia.com//web/sites/default/files/2021-06/ind_prs28082017.pdf
+2017-08-28,2017-09-29,UPL Ltd.,UPL,Inclusion,https://nsearchives.nseindia.com//web/sites/default/files/2021-06/ind_prs28082017.pdf
+2018-02-21,2018-03-30,Titan Company Ltd.,TITAN,Inclusion,https://nsearchives.nseindia.com//web/sites/default/files/2022-12/ind_prs21022018.pdf
+2018-02-21,2018-03-30,Grasim Industries Ltd.,GRASIM,Inclusion,https://nsearchives.nseindia.com//web/sites/default/files/2022-12/ind_prs21022018.pdf
+2018-02-21,2018-03-30,Bajaj Finserv Ltd.,BAJAJFINSV,Inclusion,https://nsearchives.nseindia.com//web/sites/default/files/2022-12/ind_prs21022018.pdf
+2018-02-21,2018-03-30,Aurobindo Pharma Ltd.,AUROPHARMA,Exclusion,https://nsearchives.nseindia.com//web/sites/default/files/2022-12/ind_prs21022018.pdf
+2018-02-21,2018-03-30,Ambuja Cements Ltd.,AMBUJACEM,Exclusion,https://nsearchives.nseindia.com//web/sites/default/files/2022-12/ind_prs21022018.pdf
+2018-02-21,2018-03-30,Bosch Ltd.,BOSCHLTD,Exclusion,https://nsearchives.nseindia.com//web/sites/default/files/2022-12/ind_prs21022018.pdf
+2019-08-28,2019-09-27,Indiabulls Housing Finance Ltd.,IBULHSGFIN,Exclusion,https://nsearchives.nseindia.com//web/sites/default/files/2019-08/ind_prs28082019.pdf
+2019-08-28,2019-09-27,Nestle India Ltd.,NESTLEIND,Inclusion,https://nsearchives.nseindia.com//web/sites/default/files/2019-08/ind_prs28082019.pdf
+2020-02-18,2020-03-27,Yes Bank Ltd.,YESBANK,Exclusion,https://nsearchives.nseindia.com//web/sites/default/files/2020-02/ind_prs18022020.pdf
+2020-02-18,2020-03-27,Shree Cement Ltd.,SHREECEM,Inclusion,https://nsearchives.nseindia.com//web/sites/default/files/2020-02/ind_prs18022020.pdf
+2020-08-20,2020-09-25,Bharti Infratel Ltd.,INFRATEL,Exclusion,https://nsearchives.nseindia.com//web/sites/default/files/2020-08/ind_prs20082020.pdf
+2020-08-20,2020-09-25,Divi's Laboratories Ltd.,DIVISLAB,Inclusion,https://nsearchives.nseindia.com//web/sites/default/files/2020-08/ind_prs20082020.pdf
+2020-08-20,2020-09-25,Zee Entertainment Enterprises Ltd.,ZEEL,Exclusion,https://nsearchives.nseindia.com//web/sites/default/files/2020-08/ind_prs20082020.pdf
+2020-08-20,2020-09-25,SBI Life Insurance Company Ltd.,SBILIFE,Inclusion,https://nsearchives.nseindia.com//web/sites/default/files/2020-08/ind_prs20082020.pdf
+2021-02-23,2021-03-26,Tata Consumer Products Ltd.,TATACONSUM,Inclusion,https://nsearchives.nseindia.com//web/sites/default/files/2021-02/ind_prs23022021.pdf
+2021-02-23,2021-03-26,GAIL (India) Ltd.,GAIL,Exclusion,https://nsearchives.nseindia.com//web/sites/default/files/2021-02/ind_prs23022021.pdf
+2022-02-24,2022-03-25,Apollo Hospitals Enterprise Ltd.,APOLLOHOSP,Inclusion,https://nsearchives.nseindia.com//web/sites/default/files/2022-02/ind_prs24022022_1.pdf
+2022-02-24,2022-03-25,Indian Oil Corporation Ltd.,IOC,Exclusion,https://nsearchives.nseindia.com//web/sites/default/files/2022-02/ind_prs24022022_1.pdf
+2024-02-28,2024-03-29,Shriram Finance Ltd.,SHRIRAMFIN,Inclusion,https://nsearchives.nseindia.com//web/sites/default/files/2024-02/ind_prs28022024.pdf
+2024-02-28,2024-03-29,UPL Ltd.,UPL,Exclusion,https://nsearchives.nseindia.com//web/sites/default/files/2024-02/ind_prs28022024.pdf
+2024-08-23,2024-09-30,Divi's Laboratories Ltd.,DIVISLAB,Exclusion,https://nsearchives.nseindia.com//web/sites/default/files/2024-08/ind_prs23082024.pdf
+2024-08-23,2024-09-30,Bharat Electronics Ltd.,BEL,Inclusion,https://nsearchives.nseindia.com//web/sites/default/files/2024-08/ind_prs23082024.pdf
+2024-08-23,2024-09-30,LTIMindtree Ltd.,LTIM,Exclusion,https://nsearchives.nseindia.com//web/sites/default/files/2024-08/ind_prs23082024.pdf
+2024-08-23,2024-09-30,Trent Ltd.,TRENT,Inclusion,https://nsearchives.nseindia.com//web/sites/default/files/2024-08/ind_prs23082024.pdf
+2025-02-21,2025-03-28,Bharat Petroleum Corporation Ltd.,BPCL,Exclusion,https://nsearchives.nseindia.com//web/sites/default/files/2025-02/ind_prs21022025.pdf
+2025-02-21,2025-03-28,Britannia Industries Ltd.,BRITANNIA,Exclusion,https://nsearchives.nseindia.com//web/sites/default/files/2025-02/ind_prs21022025.pdf
+2025-02-21,2025-03-28,Jio Financial Services Ltd.,JIOFIN,Inclusion,https://nsearchives.nseindia.com//web/sites/default/files/2025-02/ind_prs21022025.pdf
+2025-02-21,2025-03-28,Zomato Ltd.,ZOMATO,Inclusion,https://nsearchives.nseindia.com//web/sites/default/files/2025-02/ind_prs21022025.pdf
+2025-08-22,2025-09-26,InterGlobe Aviation Ltd.,INDIGO,Inclusion,https://nsearchives.nseindia.com//web/pressrelease/2025-08/ind_prs22082025_20250822194818.pdf
+2025-08-22,2025-09-26,Hero MotoCorp Ltd.,HEROMOTOCO,Exclusion,https://nsearchives.nseindia.com//web/pressrelease/2025-08/ind_prs22082025_20250822194818.pdf
+2025-08-22,2025-09-26,Max Healthcare Institute Ltd.,MAXHEALTH,Inclusion,https://nsearchives.nseindia.com//web/pressrelease/2025-08/ind_prs22082025_20250822194818.pdf
+2025-08-22,2025-09-26,IndusInd Bank Ltd.,INDUSINDBK,Exclusion,https://nsearchives.nseindia.com//web/pressrelease/2025-08/ind_prs22082025_20250822194818.pdf
