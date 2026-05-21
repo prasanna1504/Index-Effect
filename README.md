@@ -2,7 +2,7 @@
 
 **Does the Nifty 50 Index Effect still exist — and did the rise of passive investing kill it?**
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://indexeffect-prasanna.streamlit.app/)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://indexeffect-prasanna.streamlit.app/)
 
 ---
 
@@ -30,6 +30,56 @@ The research is split into two acts:
 | VaR spike around events | **+40–60% above baseline** (both inclusions and exclusions) |
 | Crisis amplification | Adds **+0.6×** to VaR spike for inclusions |
 | Abnormal volume | Inclusions trade at **0.78×** baseline (pre-announcement pricing-in) |
+
+---
+
+## Data Collection — Scraping NSE Circulars
+
+There is no clean, downloadable dataset of historical Nifty 50 reconstitutions. NSE publishes each index change as a **PDF circular** on their website. Building the event dataset required scraping and parsing 10 years of these PDFs.
+
+### The problem
+NSE releases index reconstitution circulars twice a year (typically February and August). Each circular covers **all NSE indices** in a single document — Nifty 50 is just one section buried among 30+ others. The raw text looks like:
+
+```
+Annexure I
+Changes in NSE Indices
+...
+1) Nifty 50
+   Following changes are being made effective from [date]:
+   INCLUDED:  SYMBOL1, SYMBOL2
+   EXCLUDED:  SYMBOL3
+...
+12) Nifty Midcap 150
+   ...
+```
+
+### What the scraper does (`nifty50_scraper.py`)
+1. **Downloads PDF circulars** from NSE's index announcements archive (2015–2025)
+2. **Extracts raw text** using `pdfplumber`
+3. **Locates the Nifty 50 section** using a regex header match, then reads until the next index section begins
+4. **Parses inclusions and exclusions** — company names are mapped to NSE ticker symbols
+
+### Key engineering challenge — format change
+Around 2020, NSE changed its circular format. The section numbering switched from:
+```
+1) Nifty 50        →    a) Nifty 50
+2) Nifty Next 50   →    b) Nifty Next 50
+```
+A regex targeting only `1) Nifty 50` silently missed every circular from 2020 onward, producing **zero events for 5 years**. The fix required updating both the section header pattern and the section boundary detector to handle both numbered (`\d+\)`) and lettered (`[a-z]\)`) prefixes:
+
+```python
+# Before (missed ~2020 onwards)
+_NIFTY50_HDR = re.compile(r"^\(?\d+\)\s+Nifty\s+50\b", re.I)
+
+# After (handles both formats)
+_NIFTY50_HDR = re.compile(r"^(?:\(?\d+\)|[a-z]\))\s+Nifty\s+50\b", re.I)
+```
+
+### Result
+- **14 announcement cycles** scraped (Feb/Aug each year, 2015–2025)
+- **3 missing cycles** identified and added manually (2020-Aug, 2024-Aug, 2025-Feb) after cross-checking against NSE press releases
+- **7 cycles confirmed** to have had no Nifty 50 changes (verified from PDFs)
+- Final dataset: **51 events** across 44 unique stocks
 
 ---
 
